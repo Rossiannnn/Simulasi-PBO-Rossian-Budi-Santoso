@@ -1,7 +1,7 @@
 <?php
 // Sesuaikan nama database dengan nama yang kamu buat di Tahap 1
 $host = 'localhost';
-$dbname = 'DB_SIMULASI_PBO_KELAS_NamaLengkap'; 
+$dbname = 'db_simulasi_pbo_ti1c_rossian budi santoso'; 
 $username = 'root';
 $password = ''; // Kosongkan jika menggunakan XAMPP/Laragon default
 
